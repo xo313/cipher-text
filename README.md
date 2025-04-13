@@ -1,0 +1,1 @@
+This code uses the Caesar Cipher algorithm to decrypt text. Instead of asking the user for the shift key, it tries all possible combinations and prints the results so the user can see which result is the original decrypted text.
